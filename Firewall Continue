@@ -1,0 +1,45 @@
+                
+Firewall Continue
+- port scan 
+- port forward 
+- dmz network 
+           - what is port scan? why using it? 
+	   port scan is the method used for scan the close port or open port 
+most of hacker use this method to find port and service to attack. 
+	   
+	   - what is the port forward? 
+	   port forward is the method of forwarding server port in LAN to public Network. 
+	   example: we have public IP: 20.20.20.20 setup this ip on WAN Port of your router. 
+	   and you have web server: 192.168.1.2 
+           so you can forward port 80 in web server to public ip with port 80 too. example: 20.20.20.20:80 -> forward to 192.168.1.2:80 
+so each time they access to public ip 20.20.20.20 it will redirect to private server. 
+
+DMZ Network: DMZ Network is similar to port forward too, but DMZ is forward a whole server to public IP: 
+example: web server: 192.168.1.2 
+public ip: 20.20.20.20
+we can forward ip 20.20.20.20 -> forward to -> 192.168.1.2
+
+who know IP:100 = ? 
+         192.168.1.2:80 = ? session 
+one ip address can have port 9999 port. 
+Standard Operating System have 1024 port by default, (Linux, Android, Windows)
+what is standard port in operating system? 
+standard port in operating system is the default port that make Operating system such as windows linux android can communicate with each other. 
+
+what is non-standard port? 
+
+non standard port is the port that use range from 1024-9999. 
+in general you can change default port to non-standard port it up to you. but make sure your client know the port you changed. 
+
+example: you run web server on port 9999 so you must tell your client to connect to port 9999 not default port 80 as general. 
+
+example: mysql-server running on port 3306 you can change to port 80, but what happen if you have your web server running on port 80 too? 
+it will conflict and it not work. that why they dont recommend to change any port to the port from 1-1024. 
+
+and we also need to use port scan tool for scanning open port and close port
+open port we can not use another port the same, but close port you can use that port, close port = free port = available port in your Operating System.
+
+
+
+
+

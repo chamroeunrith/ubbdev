@@ -1,0 +1,85 @@
+
+                      this is firewall 
+                   it based on linux operating system. 
+                   it name untangle 
+
+there have some application can install on it after you install Operating System. so you can filter something accross from internet to your LAN 
+
+......................
+WHAT IS WAN? 
+   the network card that connect from router to your internet is WAN.
+
+WHAT IS LAN? 
+   the network card that connect from router too your PC IS LAN.
+
+so everything you are using, untangle can monitor your traffic all. 
+because untange act as router. 
+
+យើងយល់ទេថាហេតុអ្វីបាន firewall យើងមាន Network card 2 ? 
+ដោយសារតែម្ខាងវាភ្ជាប់ទៅកាន់ WAN និងម្ខាងទៀតភ្ជាប់ទៅកាន់ LAN
+
+វាដើតួរដូច Router អីចឹងវាអាច Translate Local Traffic ទៅកាន់ WAN បាន។
+ដូចនេះហើយបានជាត្រូវការមាន Network Card 2 
+
+it is ok you setup GUI mode and text mode. 
+GUI you can use mouse, and text mode you can use keyboard only. 
+the same thing. 
+most of peoples study linux they dont like GUI 
+they like text mode. 
+text mode make you think deeply inside than look GUI
+
+eth0: first network card and it act as WAN Port 
+     - this network card it obtain ip from router/modem etc. 
+
+eth1: second network card and it act as LAN Port 
+     - this network card it provide dhcp-server to client, so client that connect to this network card will get ip automatic from it. 
+
+all of you ever configure router sharing  internet at home or not? 
+so it is the same thing, just assume that untangle is your router 
+if you have hardware and then you setup untange in it it will become router box. 
+
+if you want to buy from aliexpress it take time around 1months, and then when it arrive POS telecom in battambang will call you and bring to your house. 
+i experience bough from china, and just put address and phone number when we purchase, such as battambang province, email: and  phone numbe.r 
+
+you need to use ram 2GB at least for setup untangle, it require 2GB of RAM.
+
+........................................
+Authentication:  how you access to it? by password? key? something else. 
+
+Authorized: who will be authorized? 
+
+normal wifi using authentication by password(input password can access to wifi)
+
+hotspot is authentication method + authorized so need username and password for access to wifi service. 
+
+     អ្វីដែលខ្ញុំគូសលើក្តាខៀនវាមានឆ្វេងស្តាំ តែដល់ការងារជាក់ស្តែងអត់មានឆ្វេងស្តាំ ដូចរូបទេ ព្រោះថាយើងសន្មត់យក port ណាមួយធ្វើជា WAN និង LAN 
+ការងារជាក់ស្តែងយើងមិនអាចទៅបន្លាយខ្សែដូចរូបខ្ញុំគូសអីចឹងនោះទេ
+
+i see one website good for learning, 
+you can create account and then study video they teach in there, and then test exam, some exam is free, and some exam pay 10$ only. 
+                   
+                   https://www.cybrary.it/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

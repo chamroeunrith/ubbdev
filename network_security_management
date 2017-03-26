@@ -1,0 +1,318 @@
+ 
+              Network and Security Management. 
+
+1. How to Design Network, 
+  - network topology, network standard
+  - choose right product for network, 
+  - check if network can be scalable 
+
+2. How to Test Security in your network 
+  - find the mistake in your design
+  - using tool for testing your network
+  - linux is best tool for testing your network security. such as kali linux etc. 
+  - how to apply security such as ssl etc. 
+  - how to apply firewall software, appliance firewall etc. 
+
+3. Network Management System (NMS)
+  - using tool for help you monitoring system such as router, server etc. 
+  - how to read log report 
+
+4. write report about your network 
+  - make sure you can read it later on. 
+...............
+out of topic: នៅពេលដែលយើងធ្វើការងារអ្វីមួយហើយយើងមិនកត់ចំណាំទុក ឆ្នាំក្រោយនៅពេលចង់ធ្វើការងារនោះ
+ឡើងវិញយើងច្បាស់ជាខ្លាចវាមិនខាន មើលទៅវាហាក់ដូចជាបិសាចអីចឹង មិនហ៊ានប៉ះទេ ខ្លាចError 
+បើខានធ្វើការងារនោះកាន់តែយូកាន់តែខ្លាច 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+out of topic
+          before i work at Legend Cinema, IT Manager there is no weekend. 
+but now i change to work with my friend, i work as Head of Technical, 
+i responsible for Technical team such as Software Developer and System Integrated. 
+ - my company focus on open source system especially linux, 
+   we are linux embassador in cambodia and we provide linux training and also 
+provide linux exam training too. certificate worldwide 
+
+- if you want to get certificate from linux and using worldwide can contact me, exam online, certificate valid for 5 years. 
+if you fail pay 150$ more for take exam again. 
+
+currently ubuntu and fedora cambodia is under my team. 
+
+in the future if you want to growth linux is the first choice for you 
+windows can not make you growth 
+
+linux is the most powerful, google data center using linux too 
+
+china phone, tv for car also linux, gps for car is linux too, and more more than billions devices using linux. 
+
+cinema projector also using linux as operating system. but remote management from web base. 
+
+android tvbox also linux 
+
+if you want to hack windows using linux, if you want to hack linux using linux
+if you want to hack linux you can not using windows. 
+because linux can customize so easy to made it to something you want. 
+
+linux can use as firewall, linux can use as router 
+
+have you ever seen Mikrotik router? 
+Mikrotik Route Operating System using Linux too. 
+Have you ever seen firewall appliance? appliance = customized hardware. 
+
+example: i am a firewall company 
+- i can not create hardware, so i can contact dell or toshiba to make hardware
+for me. 
+- then i can cutomized linux to run on that hardware. 
+
+then i set price to sell my firewall ( hardware + software)
+
+this is call firewall appliance. 
+
+example: sonicwall is new name 
+hardware made by dell, 
+software firewall and Operating system from Sonicwall
+this is call appliance, 
+
+in general linux is good for security protection they have their own firewall name iptable. 
+
+
+99% of linux firewall using iptables but they just change the view, they change GUI, 
+..................................
+concept firewall: 
+ - all traffic from outside to inside it scan, if it see virus or spy or trojan it will block that packet. 
+ - all traffic from your pc to outside it wont check at all, 
+ - firewall can scan virus and mailware etc inside the network traffic, but it can not scan your computer. so if your computer have virus you can use antivirus to scan your computer. 
+ - antivirus also have firewall but it is not strong as general firewall. 
+ 
+.......................
+អ្វីដែលយើងត្រូវដឹងនិងចែកអោយច្បាស់ រវាង Router, firewall, antivirus, 
+Router: for route traffic from one route to another router, if you are in the same range: 192.168.1.0/24 no need to use router. 
+
+firewall: if you want to protect virus from internet into your network device such as pc, mobile, and server inside network you can use firewall. 
+
+antivirus: antivirus using for scan virus in flash, in pc etc. it is not firewall. 
+............................
+ចំនុចមួយចំនួនដែលធ្វើអោយយើងយល់ច្រលំដោយសារតែពេលខ្លះ Router វាមានដាក់ Application មួយចំនួននៅក្នុងខ្លួនវាដើម្បីធ្វើជា Firewall ទៀតផងដូចនេះធ្វើអោយយើងយល់ច្រលំថា Router ជា Firewall ដែរ។
+
+Firewall មានមុខងារមួយចំនួនផងដែរដូចជាអាច Route Traffic បានដូច Router ដែរ​អាចកំណត់ Rule អោយTraffic Network ចេញពីណាចូលទៅណាក៏បាន។​
+..............................................
+what you have studied about linux? 
+
+Linux Administrator I
+- basic command? 
+- user permission? 
+- directory permission? 
+- delegate right to user? 
+- schedule task ?
+
+
+Linux Administrator II 
+ - DHCP Server
+ - Samba File Server
+ - NFS Server
+ - FTP Server
+ - Mail Server 
+ - Web Server 
+ - 
+
+this course will apply on linux so hope you all understand about linux 
+how to setup web server, how to deploy tool on linux can use command linux 
+can use text editor linux, can remote linux, can manage linux service etc. 
+..........
+
+
+CMS (Content Management System) 
+Moodle, php + MySQL, Mariadb 
+
+Redhat, Centos version < 7 using MySQL database
+Redhat, Centos Version >=7 using Mariadb database
+
+Mariadb and MySQL the same 
+..............................................................................
+what is Network and what is System? 
+
+- Network Device: 
+   - Network Cable, 3G, 2G, 4G all are network Transmission 
+   - Fiber Optic, Wifi, Mifi,Cocial Cable, all are network transmission 
+   
+   - Switch, Router all are transmission devices in network 
+
+- System: 
+   - Operating System( Linux, Windows, Android, Unix, Sun, Lotus) 
+   - Server Application: ( web server, mail server, file server, ftp server etc.)
+   - Client System: ftp client, mail client, web client 
+
+- DO NOT MIX It together, must identify it before start or doing project related to network or system. 
+
+  
+based on the picture: 
+when we do trouble shooting.
+1. check if cable is ok using cable tool testing
+2. start ping to server ip, 
+3. start check service mysql-server, service web server 
+4. check if code is error 
+.............
+if broken cable check cable make it work well
+if server ip wrong change ip, change subnetmask, or gateway 
+if check service mysql error fix it, what is the wrong configuration of sql server 
+if web server wrong what happen with it try to fix it. 
+
+if web server and mysql server is ok all let check your code, 
+what wrong with your code? why can not connect to database? 
+wrong db connection from your code to sql? wrong username and password of mysql? 
+
+
+trouble shooting step by step. 
+
+thinking as logical, step by step do not hurry 
+..............................................................................
+
+choosing Right Technology for use is very important. 
+   before you deisgn network you make sure you know the business requirement.
+ -  what the business is? 
+ - what the specific purpose of network/system infrastructure? 
+ - does it need high security or low security? 
+ - what kind of service will be use? ( website, file sharing, or doesnt need?)
+ - how many server will need? 
+ - what happen if server broken mainboard? how to solve it? 
+ - do i have to use 2 server working the same job? 
+ - do i have to use 2 server as virtualization, easy for me to backup and restore? 
+ - when the company growth do i need to restucture the network again or just add more device? 
+ - when 10 years more do i have to remove all server and network and setup new? 
+
+ - does software/hardware support with other device/system or not? 
+
+ ........................................
+ 
+study about the cost estimation for currently and future growth. 
+ - what is the daily cost? 
+ - what is the monthly cost? 
+ - what is one time cost? 
+ - what is the addons cost for future addons.
+...................................
+
+example: i have 200$/years budget and i want to have one mail server and website? can you make it for me with that cost? 
+i have my website already can running on linux, it is php and mysql. 
+i want to have universityofbattambang.com 
+
+........
+option: 1 buy server= 1500$ 
+          buy internet 5Mb = 40$/month
+          buy airconditioner = 350$ 
+              airconitioner = 60$ 
+              
+Option: 2 is possible.
+          buy Virtual Private Server: 15$/month ip: 20.20.20.20
+              buy domain             : 20$/years
+              setup mail free         : 
+              setup web server free   :
+
+
+how to do: when we buy domain, and we have server with public ip: 
+configure in domain mail.universityofbattambang.com -> 20.20.20.20
+                    www.universityofbattambang.com -> 20.20.20.20
+
+in our server we setup postfix server, setup dovecot. 
+if we need to have ssl we can integrated. 
+
+
+3 week will finish 30 sessions. 
+
+because at May i will start Linux Training in PP around 6 weeks. 
+after training they will have linux exam 
+
+.........................
+Network Design Tool and Simulation Tools
+
+what is Network Deisgn tool ? 
+  - Packet Tracert (tool for design cisco network and simulation tool too)
+  - GNS3 (it is similar to packet tracert too but it is using real cisco IOS)
+  - eSPN  (it is for design and simulation hauwei product, popular in market too) 
+  - Microsoft Visio (for drawing network diagram, license from microsoft)
+...................................
+
+have you ever heard hauwei phone? 
+hauwei is the leading technology company in china, 
+- 10 year a go hauwei just make, switch, router, wireless, telecom antenna. 
+- smart mobile, and 80% of telecom in cambodia such as ezecom, neocom using hauwei product, also xinwei, singtel, seatel. 
+from now if you want to catchup with product used in cambodia is hauwei, 
+not cisco. 
+
+Mikrotik, hauwei switch, router, 
+
+it is cheap and reliable, 
+
+operating system using Linux 80% 
+
+- what we have to know more about network design and system 
+  - protocol 
+  protocol very very important for network and system to work together 
+  there have many protocol such as network protocol, tcp/ip 
+  http, https, sip, h326, g729, smtp, pop, imap, ftp, 
+these are popular protocol, 
+  example: if you use mysql-server and you want to connect to it. 
+how to do? 
+  you need library file that can connect to mysql-server that you call 
+connector, it is protocol for  connect between your code and mysql-server 
+  - you can not use smtp protocol to connect with ftp server. 
+  - it is the same french speaking with french because they have same language same protocol. 
+
+  - port number also important in network management, if you dont know port 
+running how can you use firewall to block that port? 
+  - if you dont know protocol how can you use firewall to block that traffic?
+  - if you dont know traffic in and traffic out rule how can u block those traffic? 
+  so if you want to be a good system administrator or system engineer you should know all these concept, 
+ traffic in/out, port number of service, example: mysql server running on port 3306, web server httpd running on port 80, so if you use firewall to protect you protect the right port and not block a whole server.. 
+
+
+example: if you block a whole system how can u remote to your server? 
+..................................
+have you ever heard about iptable ? iptables using in general linux
+
+have you ever heard about firewalld ? using in new generation of linux
+
+the concept firewall is the same 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
